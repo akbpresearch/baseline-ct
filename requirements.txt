@@ -1,0 +1,8 @@
+anthropic
+trafilatura
+beautifulsoup4
+ddgs
+requests
+pandas
+tenacity
+streamlit
