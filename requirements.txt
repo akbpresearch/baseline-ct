@@ -6,3 +6,5 @@ requests
 pandas
 tenacity
 streamlit
+altair>=5
+youtube-transcript-api
